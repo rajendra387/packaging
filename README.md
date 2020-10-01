@@ -1,0 +1,2 @@
+# packaging
+Installanywhere, rpm, etc
